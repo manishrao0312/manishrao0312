@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish M</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 Deep Learning Enthusiast | 🧠 Building GANs & Smart Web Apps</h3>
+<h3 align="center">💻 Full Stack & AI Engineer | 🤖 Generative AI Enthusiast | 🧠 Building Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishrao0312&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,19 +8,19 @@
 ---
 
 ### 🔥 About Me
-- 🔭 Currently working on **GAN-from-Scratch** – building a Generative Adversarial Network to create unique images and patterns 🧩  
-- 🌱 Exploring **Deep Learning**, **Neural Networks**, and **AI model optimization**  
-- 👯 Open to collaborate on **AI/ML and Full-Stack open-source projects**  
-- 💬 Ask me about **React, Node.js, Python, TensorFlow, PyTorch, and FastAPI**  
-- 👨‍💻 All of my projects are available at [**my GitHub**](https://github.com/manishrao0312)  
-- 📫 Reach me at **manishmahesh456@gmail.com**  
-- ⚡ Fun fact: *I train models… and sometimes they train me 😄*
+- 🔭 Currently working on **Virtual Try-On & Stylist** – a GenAI system utilizing Google Gemini API for realistic clothing swaps 👕
+- 🌱 Exploring **Databricks for Machine Learning**, **Large Language Models (LLMs)**, and **AI Agentic Workflows**
+- 👯 Open to collaborate on **Generative AI, Full-Stack, and Data Science projects**
+- 💬 Ask me about **React, Node.js, Python, FastAPI, and Generative AI**
+- 👨‍💻 All of my projects are available at [**my GitHub**](https://github.com/manishrao0312)
+- 📫 Reach me at **manishmahesh456@gmail.com**
+- ⚡ Fun fact: *I bridge the gap between complex backend logic and seamless user experiences!*
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/manish-m" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-m-5b7949258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/manish_m_03" target="_blank">
