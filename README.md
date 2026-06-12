@@ -276,15 +276,15 @@ Worked within an applied AI product team, contributing to data analysis workflow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishrao0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-hazel-gamma-65.vercel.app/api?username=manishrao0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.comuser=manishrao0312&theme=tokyonight&hide_border=true&background=0D0D1A&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=7C3AED" height="180" />
+<img src="https://streak-stats.demolab.com/?user=manishrao0312&theme=tokyonight&hide_border=true&background=0D0D1A&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=7C3AED" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishrao0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="160" />
+<img src="https://github-readme-stats-hazel-gamma-65.vercel.app/api/top-langs/?username=manishrao0312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="160" />
 
 </div>
 
