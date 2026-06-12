@@ -274,9 +274,10 @@ Worked within an applied AI product team, contributing to data analysis workflow
 ## ◈ GitHub Trophies
 
 <div align="center">
-[![Trophy](https://github-trophies.devomb.com/?username=manishrao0312&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
+[![Trophy](https://github-trophies.devomb.com/?username=manishrao0312&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## ◈ Contribution Activity
