@@ -275,7 +275,7 @@ Worked within an applied AI product team, contributing to data analysis workflow
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=manishrao0312&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://trophy.ryglcloud.net/?username=manishrao0312&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
