@@ -171,26 +171,7 @@ The primary engineering constraint was balancing image quality against inference
 <br/>
 </details>
 
-<details>
-<summary><b>⬡ TCS NQT Preparation Platform</b></summary>
 
-<br/>
-
-A live, production-deployed preparation tool for the TCS National Qualifier Test — curating 136 DSA problems sourced from TCS PYQs across 2022–2026, with category filters, difficulty tagging, and progress tracking. Built and shipped in under a week.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | React · Vite · Vercel |
-| **Scale** | 136 curated problems across Easy / Medium / Hard tiers |
-| **Performance** | Deployed on Vercel edge — global cold start under 300ms |
-| **Data Source** | Manually curated from TCS PYQs (2022–2026) |
-| **Impact** | Live tool used by candidates preparing for TCS Digital and Prime tracks |
-| **Live URL** | [![Vercel](https://img.shields.io/badge/Live_Demo-tcsnqt--green.vercel.app-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://tcsnqt-green.vercel.app) |
-
-Built as a scratchpad-to-product in response to a real preparation gap — no consolidated PYQ tracker existed for TCS NQT. Pulled all problems manually, tagged by topic (DP, Graphs, Arrays, Strings, Math), and wired localStorage-based progress persistence so candidates could resume sessions across devices.
-
-<br/>
-</details>
 
 ---
 
