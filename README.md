@@ -180,7 +180,7 @@ The primary engineering constraint was balancing image quality against inference
 <div align="left">
 
 ### Data Analysis & AI Intern — Incanto Dynamics
-**Bangalore, India** · *2025 – 2026*
+**Bangalore, India** · *2026*
 
 Worked within an applied AI product team, contributing to data analysis workflows and AI feature integration. Built and shipped production-grade pipelines using the Gemini API, transforming raw data into structured, actionable model inputs.
 
