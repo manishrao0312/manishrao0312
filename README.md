@@ -47,7 +47,7 @@
 
 ## ◈ About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=manishrao0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" width="410" />
+<img align="right" src="https://github-readme-stats-hazel-gamma-65.vercel.app/api?username=manishrao0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" width="410" />
 
 Software Engineer with a focus on AI/ML integration and full stack product engineering. I build systems that connect intelligent backends to clean, responsive frontends — from LLM-powered APIs to production-grade data pipelines.
 
@@ -278,7 +278,7 @@ Worked within an applied AI product team, contributing to data analysis workflow
 
 <img src="https://github-readme-stats.vercel.app/api?username=manishrao0312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrao0312&theme=tokyonight&hide_border=true&background=0D0D1A&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=7C3AED" height="180" />
+<img src="https://streak-stats.demolab.comuser=manishrao0312&theme=tokyonight&hide_border=true&background=0D0D1A&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=7C3AED" height="180" />
 
 </div>
 
